@@ -1,0 +1,82 @@
+[
+    {
+        "log_id": "SYS-REQ-8821",
+        "tarih": "2024-01-10",
+        "etkilenen_kaynak": "paket_fiyatlari.csv",
+        "etkilenen_paket": "Startup",
+        "kategori": "Operasyon",
+        "degisiklik": "Startup paketindeki ücretsiz API erişimi, sistemin kötüye kullanımı (abuse) nedeniyle tamamen kaldırılmıştır. Tablodaki 'api_istek_limiti_aylik' değeri Startup paketi için 0 olarak kabul edilmelidir. Diğer özellikleri aynı kalmıştır."
+    },
+    {
+        "log_id": "LEG-UPD-004",
+        "tarih": "2024-03-15",
+        "etkilenen_kaynak": "sozlesme.txt",
+        "etkilenen_madde": "Madde 6.1",
+        "kategori": "Hukuk/KVKK",
+        "degisiklik": "KVKK ve GDPR uyumluluk süreçleri kapsamında Madde 6.1 güncellenmiştir. Şirket politikası gereği müşteri verileri standart olarak Türkiye'deki Tier-3 merkezlerde tutulmaya devam edecektir; ancak talep eden kurumsal müşteriler için ek ücret mukabilinde Avrupa (Almanya) lokasyonlu Tier-4 veri merkezleri seçeneği devreye alınmıştır."
+    },
+    {
+        "log_id": "FIN-REV-2024-Q2",
+        "tarih": "2024-06-01",
+        "etkilenen_kaynak": "paket_fiyatlari.csv",
+        "etkilenen_paket": "Basic, Pro",
+        "kategori": "Finans",
+        "degisiklik": "Altyapı maliyetlerindeki artış sebebiyle paket fiyatlarında revizyona gidilmiştir. 1 Haziran 2024 itibarıyla; Basic paket aylık fiyatı 450 TL'den 650 TL'ye, Pro paket aylık fiyatı 1250 TL'den 1600 TL'ye yükseltilmiştir. Yıllık alımlardaki indirim oranları değişmemiştir."
+    },
+    {
+        "log_id": "MKT-CMP-992",
+        "tarih": "2024-08-20",
+        "etkilenen_kaynak": "sozlesme.txt",
+        "etkilenen_madde": "Madde 4.1",
+        "kategori": "Pazarlama/Kampanya",
+        "degisiklik": "DİKKAT KAMPANYA: 20 Ağustos 2024 ile 31 Aralık 2024 tarihleri arasında yeni kayıt olan tüm 'Pro' ve 'Business' paket kullanıcıları için Madde 4.1'de belirtilen 14 günlük standart iade süresi 45 güne çıkarılmıştır. Bu kampanya Basic ve Enterprise paketlerini kapsamaz."
+    },
+    {
+        "log_id": "SLA-INC-055",
+        "tarih": "2024-11-05",
+        "etkilenen_kaynak": "sozlesme.txt, paket_fiyatlari.csv",
+        "etkilenen_madde": "Madde 5.3",
+        "kategori": "Sistem Yönetimi",
+        "degisiklik": "Ekim ayında yaşanan büyük çaplı sunucu kesintisi sonrası SLA politikası güncellenmiştir. Madde 5.3'te yer alan '%25 sistem kredisi' hakkı, '%50 sistem kredisi veya bir sonraki ay ücretsiz kullanım' olarak değiştirilmiştir. Bu kural geçmişe dönük uygulanmaz, sadece Kasım 2024 sonrasını kapsar."
+    },
+    {
+        "log_id": "SEC-POL-102",
+        "tarih": "2024-12-01",
+        "etkilenen_kaynak": "sozlesme.txt",
+        "etkilenen_madde": "Madde 4.1",
+        "kategori": "Güvenlik/İstisna",
+        "degisiklik": "İstisnai Kural: Kripto madenciliği (crypto-mining) veya yasadışı ağ trafiği tespiti durumunda, kampanya veya standart süre fark etmeksizin Madde 4.1'deki iade hakkı tamamen geçersiz sayılır ve müşteri hesabı derhal dondurulur."
+    },
+    {
+        "log_id": "FIN-INT-2025",
+        "tarih": "2025-01-15",
+        "etkilenen_kaynak": "sozlesme.txt",
+        "etkilenen_madde": "Madde 3",
+        "kategori": "Finans",
+        "degisiklik": "Madde 3 altındaki ödeme koşulları güncellenmiştir. Geciken ödemelerde uygulanan aylık gecikme faizi oranı, piyasa koşulları gereği 1 Şubat 2025 itibarıyla %2'den %4.5'e yükseltilmiştir."
+    },
+    {
+        "log_id": "OPS-STO-991",
+        "tarih": "2025-02-20",
+        "etkilenen_kaynak": "paket_fiyatlari.csv",
+        "etkilenen_paket": "Enterprise",
+        "kategori": "Operasyon",
+        "degisiklik": "Enterprise paketindeki 'Sınırsız' depolama ibaresi, Adil Kullanım Kotası (AKK) kapsamında 50 TB (50.000 GB) soft-limit ile sınırlandırılmıştır. 50 TB veri kullanım limiti aşıldığında okuma/yazma (I/O) hızları otomatik olarak %50 düşürülür."
+    },
+    {
+        "log_id": "SUP-LVL-088",
+        "tarih": "2025-03-01",
+        "etkilenen_kaynak": "paket_fiyatlari.csv",
+        "etkilenen_paket": "Pro",
+        "kategori": "Müşteri Hizmetleri",
+        "degisiklik": "Pro paket kullanıcıları için destek hizmeti SLA'i iyileştirilmiştir. Daha önce '12 Saat İçinde Dönüş' olan garanti süresi, hafta içi mesai saatleri (09:00 - 18:00) dahilinde '4 Saat İçinde Dönüş' olarak güncellenmiştir."
+    },
+    {
+        "log_id": "MKT-END-001",
+        "tarih": "2025-05-10",
+        "etkilenen_kaynak": "sozlesme.txt",
+        "etkilenen_madde": "Madde 4.1",
+        "kategori": "Pazarlama/Politika Revizyonu",
+        "degisiklik": "2024 ve 2025 başındaki tüm esnek iade ve kampanya süreleri iptal edilmiştir. 10 Mayıs 2025 tarihi ve sonrasında yapılacak tüm yeni alımlarda (paket fark etmeksizin) iade süresi katı bir şekilde 7 takvim günü olarak uygulanacaktır."
+    }
+]

@@ -1,0 +1,6 @@
+paket_adi,aylik_fiyat_tl,yillik_indirim_orani,kullanici_limiti,depolama_gb,api_istek_limiti_aylik,destek_seviyesi,sla_garantisi
+Startup,0,%0,1,5,1000,Topluluk Forumu,%98.0
+Basic,450,%10,5,50,25000,E-posta (48 Saat İçinde Dönüş),%99.5
+Pro,1250,%15,25,250,500000,E-posta ve Canlı Chat (12 Saat İçinde Dönüş),%99.9
+Business,3500,%20,100,1000,2000000,7/24 Öncelikli Telefon ve Chat,%99.95
+Enterprise,Ozel_Fiyat,%25,Sinirsiz,Sinirsiz,Sinirsiz,Dedicated Account Manager,%99.99

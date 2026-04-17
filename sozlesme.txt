@@ -1,0 +1,28 @@
+### OMEGA BULUT VE SAAS BİLİŞİM HİZMETLERİ A.Ş. - KURUMSAL SÖZLEŞME (Sürüm: 2023.1) ###
+
+MADDE 1: TARAFLAR VE HİZMETİN KAPSAMI
+1.1. Bu sözleşme, Omega Bulut A.Ş. (bundan böyle "Sağlayıcı" olarak anılacaktır) ile platforma kayıt olan kullanıcı/şirket (bundan böyle "Müşteri" olarak anılacaktır) arasında akdedilmiştir.
+1.2. Hizmet kapsamı; sunucu barındırma, veri tabanı yönetimi, API erişimi ve siber güvenlik duvarı sağlanmasını içerir.
+
+MADDE 2: LİSANS VE KULLANIM HAKLARI
+2.1. Sağlayıcı, Müşteri'ye seçtiği paketin limitleri dahilinde devredilemez, münhasır olmayan bir kullanım lisansı verir.
+2.2. Tersine mühendislik (reverse engineering) yapmak veya API sınırlarını otomasyon yazılımlarıyla aşmaya çalışmak sözleşmenin tek taraflı fesih nedenidir.
+
+MADDE 3: FATURALANDIRMA VE ÖDEME
+3.1. Faturalandırma döngüsü, Müşteri'nin sisteme kredi kartı tanımladığı ilk gün başlar.
+3.2. Yıllık peşin ödemelerde standart olarak %10 indirim uygulanır.
+3.3. Ödemenin 5 iş günü gecikmesi durumunda API erişimi durdurulur, 15 gün gecikmesi durumunda Müşteri'nin tüm verileri kalıcı olarak silinir.
+
+MADDE 4: İADE, İPTAL VE CAYMA HAKKI
+4.1. Standart cayma hakkı süresi, ilk satın alım tarihinden itibaren 14 takvim günüdür. Bu süre içinde yapılan iptallerde tam iade sağlanır.
+4.2. İade talepleri yalnızca "iletisim@omegabula.com" adresine yazılı olarak iletilmelidir.
+4.3. Özel sunucu (Dedicated/Enterprise) kurulumlarında, kurulum maliyetleri sebebiyle iade kabul edilmemektedir. İptal durumunda sadece gelecek aylar faturalandırılmaz.
+
+MADDE 5: HİZMET SEVİYESİ TAAHHÜDÜ (SLA) VE KESİNTİLER
+5.1. Sağlayıcı, standart olarak tüm hizmetler için %99.5 aylık kesintisiz çalışma (uptime) garantisi verir.
+5.2. Planlı bakım çalışmaları, en az 48 saat önceden Müşteri'ye bildirilir ve SLA hesaplamasına dahil edilmez.
+5.3. Kesinti süresinin belirtilen SLA'in altına düşmesi durumunda Müşteri, o ayki faturasının %25'i oranında sistem kredisi talep etme hakkına sahiptir.
+
+MADDE 6: VERİ GİZLİLİĞİ VE KVKK
+6.1. Sağlayıcı, Müşteri verilerini Türkiye Cumhuriyeti sınırları içindeki Tier-3 sertifikalı veri merkezlerinde tutmayı taahhüt eder.
+6.2. Müşteri verileri, yasal zorunluluklar haricinde hiçbir üçüncü taraf veya reklam sağlayıcı ile paylaşılamaz.
