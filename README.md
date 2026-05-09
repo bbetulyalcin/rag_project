@@ -55,7 +55,9 @@ python app.py
 
 ## System Workflow
 Upon receiving a query, the system scans all three sources simultaneously. For instance, when asked about pricing, it identifies the base price in the CSV, cross-references it with the JSON logs for any recent updates or hikes, and presents the most current "Update Note" to the user with full source attribution.
+
 ---
+
 # Çoklu Kaynak ve Metadata Destekli RAG Sistemi
 
 Bu proje, farklı formatlardaki (TXT, CSV, JSON) kurumsal verileri entegre ederek, kullanıcı sorularına en güncel ve doğrulanmış yanıtları sağlayan bir Retrieval-Augmented Generation (RAG) pipeline tasarımıdır. Sistem, özellikle statik belgeler ile dinamik güncelleme logları arasındaki çelişkileri çözme ve tablo verilerini bağlamını bozmadan işleme yeteneğine odaklanmaktadır.
